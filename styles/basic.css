@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: roboto;
+    font-family: roboto;
+    background-color: var(--bg-main);
+}
+
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
